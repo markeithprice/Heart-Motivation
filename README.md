@@ -1,5 +1,5 @@
 # Heart-Motivation
-<!DOCTYPE html>
+
 <html lang="en" class="light"> <!-- Start with a default class -->
 <head>
     <meta charset="UTF-8">
