@@ -1,6 +1,4 @@
 # Heart-Motivation
-
-<!DOCTYPE html>
 <html lang="en" class="dark"> <!-- Set dark mode as the default and only theme -->
 <head>
     <meta charset="UTF-8">
